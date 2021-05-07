@@ -2,6 +2,7 @@
 
 import mixins from '@/mixins';
 import * as filters from '@/filters';
+import vConsole from '@/assets/js/vconsole.js'
 
 /* weex initialized here, please do not move this line */
 const { router } = require('./router');
